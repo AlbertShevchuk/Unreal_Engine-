@@ -24,4 +24,4 @@ camera and manipulated the image to look back like a 1st shooter.    -–4/25/20
 Created SWAT person character with borrowed online resources. 360-degree movement while holding an 
 AK47 that’s mounted to the trigger finger. AK has moving projectiles that are fired with the left 
 mouse click. Sprint action added with 360-degree movement with the weapon to the side. Regenerating 
-stamina bar added that controls ability to sprint.  -–4/25/2020
+stamina bar added that controls ability to sprint.  -–4/26/2020
