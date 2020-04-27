@@ -10,7 +10,8 @@ ENJOY~
 
 LATEST UPDATES:
 
-Health Bar with % indicator. Constant smooth Health Regeneration when entering selected areas.  --4/24/2020
+Health Bar with % indicator. Constant smooth Health Regeneration when entering selected areas.  
+--4/24/2020
 
 Health Regen, Health Degen altered. Armor animation (just like health) added to HUD. Armor is 
 set to always increase slowly. Damage taken decreases from armor first then from health. Blood 
@@ -18,4 +19,9 @@ splatter vignette animation added to screen when receiving damage. Pause screen 
 added with “RESUME” and “QUIT” functioning buttons. “Game Over” screen added when health reached 
 to 0% with added “RETRY” and “QUIT” functioning buttons. Converted game to a 3rd shooter instead 
 of a 1st shooter to get the full body of the player instead of just a floating arm. Moved up the 
-camera and manipulated the image to look back like a 1st shooter.    –4/25/2020 
+camera and manipulated the image to look back like a 1st shooter.    -–4/25/2020 
+
+Created SWAT person character with borrowed online resources. 360-degree movement while holding an 
+AK47 that’s mounted to the trigger finger. AK has moving projectiles that are fired with the left 
+mouse click. Sprint action added with 360-degree movement with the weapon to the side. Regenerating 
+stamina bar added that controls ability to sprint.  -–4/25/2020
