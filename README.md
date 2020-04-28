@@ -25,3 +25,8 @@ Created SWAT person character with borrowed online resources. 360-degree movemen
 AK47 that’s mounted to the trigger finger. AK has moving projectiles that are fired with the left 
 mouse click. Sprint action added with 360-degree movement with the weapon to the side. Regenerating 
 stamina bar added that controls ability to sprint.  -–4/26/2020
+
+Fixed Aim Rotator for up and down. Added realistic ak47 firing sound. Changed to automatic firing mode
+when holding the left mouse click. Changed fonts and color in HUD. Added limited amount of ammo that the 
+AK can shoot. Ammo count animation added to HUD. Shrunk projectile and changed color. Aim feature added 
+for right mouse click with sprint and shoot sideways option.  –4/27/2020
