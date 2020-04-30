@@ -30,3 +30,8 @@ Fixed Aim Rotator for up and down. Added realistic ak47 firing sound. Changed to
 when holding the left mouse click. Changed fonts and color in HUD. Added limited amount of ammo that the 
 AK can shoot. Ammo count animation added to HUD. Shrunk projectile and changed color. Aim feature added 
 for right mouse click with sprint and shoot sideways option.  –4/27/2020
+
+Added AK47 clip size to 30 with indicator of how many total bullets (120) are present added to HUD. 
+Conservative weapon reload system added. Reload animation added. Fixed fire while reload bug. 
+Crosshair added to HUD. AK47 ammunition visual destructible boxes added with a sound and visual 
+effect upon pickup. –4/29/2020
