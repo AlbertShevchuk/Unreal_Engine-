@@ -35,3 +35,11 @@ Added AK47 clip size to 30 with indicator of how many total bullets (120) are pr
 Conservative weapon reload system added. Reload animation added. Fixed fire while reload bug. 
 Crosshair added to HUD. AK47 ammunition visual destructible boxes added with a sound and visual 
 effect upon pickup. –4/29/2020
+
+AI Bot Set up. AI bot taken zombie mesh. Zombie movement installed, movement animation added, 
+bot sensing, hit then follow all installed. Objectives shown on HUD, kill notification added 
+to HUD. Health and Ammo Bar Redone. Mini-map added to HUD. Zombie health and projectile damage 
+integrated. Zombie damage animation added. AK-47 and M4A1 icons added to HUD that could be 
+switched with keyboard keys ‘1 and 2’. M4A1 can be switched when picking up the weapon on 
+the map and wise versa.   5/1/2020 -> 5/3/2020
+
