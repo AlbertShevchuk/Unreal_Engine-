@@ -43,3 +43,8 @@ integrated. Zombie damage animation added. AK-47 and M4A1 icons added to HUD tha
 switched with keyboard keys ‘1 and 2’. M4A1 can be switched when picking up the weapon on 
 the map and wise versa.   5/1/2020 -> 5/3/2020
 
+M4 fire sound added, M4 bugs fixed, M4 fire rate faster damage less, zombies run once you 
+shoot or they see you. Sprint Bar repositioned. Zombie Death physics added. Zombie attacking 
+animation added. Zombie Damage to player added. Wounded Blood Flash added. With Game 
+over screen.  --5/4/2020
+
