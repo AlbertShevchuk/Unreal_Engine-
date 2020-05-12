@@ -48,3 +48,9 @@ shoot or they see you. Sprint Bar repositioned. Zombie Death physics added. Zomb
 animation added. Zombie Damage to player added. Wounded Blood Flash added. With Game 
 over screen.  --5/4/2020
 
+Sophisticated graphics settings menu added within the pause menu. Now can support more users 
+with machines that have fewer resources. This includes a Resolution Scale with a bar between 
+values of 1 -> 100. View Distance, Anti-Aliasing, Post Processing, Shadows, Textures, Effects, 
+Foliage, Shading settings. These 8 can be changed between the values: Low, Medium, High, Epic 
+and Cinematic. –5/11/2020  
+
