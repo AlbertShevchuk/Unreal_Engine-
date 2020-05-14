@@ -4,7 +4,7 @@ Windows 64bit Test Run Version can be found on my google drive link below
 
 https://drive.google.com/drive/folders/1D7hI0tXG_k_0NMF2XX6PPhxAfsuKt19V?usp=sharing
 
-After you navigate their, follow the instructions document.
+After you navigate there, follow the instructions document.
 
 ENJOY~ 
 
@@ -53,4 +53,12 @@ with machines that have fewer resources. This includes a Resolution Scale with a
 values of 1 -> 100. View Distance, Anti-Aliasing, Post Processing, Shadows, Textures, Effects, 
 Foliage, Shading settings. These 8 can be changed between the values: Low, Medium, High, Epic 
 and Cinematic. –5/11/2020  
+
+
+
+Design Flaws
+•	Need better bushes (found) need to be changed
+•	Underwater blur needs to be fixed
+•	Settings Menu needs to be redone. Settings UI Freeze glitch occurs at random, but still usable.
+
 
